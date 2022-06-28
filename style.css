@@ -20,7 +20,8 @@ body {
 
 
 .calc_body {
-    min-width: 22vw;
+    width: 22vw;
+    min-width: 30rem;
     height: 36rem;
     background-color: #193441;
     border-style: none;
@@ -76,4 +77,9 @@ body {
     border-radius: 1rem;
     border: none;
     background-color: #dfe5d5;
+}
+
+@media screen {
+    
+    
 }
